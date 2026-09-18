@@ -16,16 +16,23 @@ Input: A sensor that can capture depth data and joint tracking (maybe just a web
 Output: Real-time generative visuals that look like particle systems, driven and tracked by the movement between the head and the body. 
 
 
+
+
 2. Music by Sonam Shah (https://www.instagram.com/musicbysonam/)
-Concept: She can control her sound output just by raising her hand.
 ![alt text](image-1.png)
+* Concept: She can control her sound output just by raising her hand.
+
 Input: Sound
 
 Output: A vocoder, or a synthesizer that makes her sound more robotic like.
 
+
+
+
 3: The Improvisation of Water (https://www.youtube.com/watch?v=SbYtIiZdrew)
-Concept: The experiencer moves freely and feels the physical properties of water, and the digital environment spontaneously creates movement according to the experiencer's input.
 ![alt text](image.png)
+* Concept: The experiencer moves freely and feels the physical properties of water, and the digital environment spontaneously creates movement according to the experiencer's input.
+
 Input: Sensor that tracks body movements.
 
 Output: Real-time generated visuals of flowing, water-like particle simulations.
