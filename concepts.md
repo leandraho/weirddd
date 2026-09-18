@@ -19,3 +19,6 @@
 10. Something coming out of your ears when you tilt your head (maybe like water, like a beach scene)
 
 top ideas are *italicized*
+
+
+![alt text](image-3.png)
