@@ -57,3 +57,13 @@ Output: A shrimp showing on your screen every time you slouch.
   For now I'll be using webcam tracking, but Claude did ask me how I would like to track the hand motion and I thought MediaPipe was interesting and might use that in future use !
 
   ![alt text](image-4.png)
+
+  ![alt text](image-5.png)
+
+  First reaction: when I move my hand, the movement is WAY too intense. But I do like the rendering!
+
+  ![alt text](image-6.png)
+
+  ![alt text](image-7.png)
+
+  With just one prompt, I am really impressed with the result! I love the rendering and the reflection of the water. My question now is how can I expand it and make it emotional rather than just a static environment?
