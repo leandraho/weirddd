@@ -21,4 +21,4 @@
 top ideas are *italicized*
 
 
-![alt text](image-3.png)
+![alt text](pictures/image-3.png)
