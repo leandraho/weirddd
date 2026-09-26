@@ -76,15 +76,15 @@ Output: A shrimp showing on your screen every time you slouch.
   - 3. Pinch to grab a lilypag
   - 4. Make a fist to do a big splash
 
-  ![alt text](image.png)
+  ![alt text](pictures/image-8.png)
 
-  ![alt text](image-1.png)
+  ![alt text](pictures/image-9.png)
 
   I added an ambient audio to the background. 
 
-  ![alt text](image-2.png)
+  ![alt text](pictures/image-10.png)
 
-  ![alt text](image-3.png)
+  ![alt text](pictures/image-11.png)
 
 *Additions:*
 - Fingertips cause ripples instead of whole body
