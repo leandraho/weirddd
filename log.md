@@ -67,3 +67,29 @@ Output: A shrimp showing on your screen every time you slouch.
   ![alt text](pictures/image-7.png)
 
   With just one prompt, I am really impressed with the result! I love the rendering and the reflection of the water. My question now is how can I expand it and make it emotional rather than just a static environment?
+
+  # 9/26/26
+  - I downloaded MediaPipe to help with specific hand tracking
+  - Interaction ideas:
+  - 1. Fingertips trigger the ripples
+  - 2. Hold still to feed the fish
+  - 3. Pinch to grab a lilypag
+  - 4. Make a fist to do a big splash
+
+  ![alt text](image.png)
+
+  ![alt text](image-1.png)
+
+  I added an ambient audio to the background. 
+
+  ![alt text](image-2.png)
+
+  ![alt text](image-3.png)
+
+*Additions:*
+- Fingertips cause ripples instead of whole body
+- Hold an open palm to drop feed for the fish. The fish will come over and eat the food until you disturb it again.
+- Pinch to grab a lilypad. It will come above water with its shadow casting on the water. Unpinch to let go of the lilypad. The water will remain undisturbed when you have grabbed the lilypad. 
+- Fist makes a big splash !
+- FROGS. I added frogs. They will jump from lilypad to lilypad and can also be disturbed. When you reach for its lilypad, it will jump off and swim to another one. They make small ribbits too!
+
