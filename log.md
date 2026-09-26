@@ -93,3 +93,4 @@ Output: A shrimp showing on your screen every time you slouch.
 - Fist makes a big splash !
 - FROGS. I added frogs. They will jump from lilypad to lilypad and can also be disturbed. When you reach for its lilypad, it will jump off and swim to another one. They make small ribbits too!
 
+![alt text](image.png)
