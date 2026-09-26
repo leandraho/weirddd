@@ -450,3 +450,8 @@ opencode.json
 briefs/
 __pycache__/
 .DS_Store
+
+# MediaPipe TouchDesigner plugin (v0.5.3, ~173 MB) -- too big for GitHub.
+# Download: https://github.com/torinmb/mediapipe-touchdesigner/releases/tag/v0.5.3
+# and unzip so mediapipe/toxes/MediaPipe.tox exists.
+mediapipe/
