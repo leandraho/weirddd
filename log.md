@@ -102,6 +102,7 @@ I asked to make some edits:
 - Decrease the ripple effect
 - Remove any "finger trails" only detect finger tips
 - Make the fish food more obvious
+
 ![alt text](image-1.png)
 
 When removing the finger trails, it makes it hard to see where you are in the space. 
@@ -112,4 +113,13 @@ Also when raising your hand to tap with your fingers, the camera mistakes it for
 ![alt text](image-2.png)
 
 I asked Claude to find a way to make it more obvious where you are in the space and it gave me this whole hand lol.
+
 ![alt text](image-3.png)
+
+Not sure how I feel about the hand, but it does make it way easier to see where I am at.
+
+I thought about typography and different ways I could build the story. I love yellow typography :) so I wanted to add it in! I wanted to see how Claude would interpret my ask for something emotional and serene. This is the copy it came up with.
+
+![alt text](image-4.png)
+
+![alt text](image-5.png)
