@@ -94,3 +94,22 @@ Output: A shrimp showing on your screen every time you slouch.
 - FROGS. I added frogs. They will jump from lilypad to lilypad and can also be disturbed. When you reach for its lilypad, it will jump off and swim to another one. They make small ribbits too!
 
 ![alt text](image.png)
+
+# 9/29/26
+
+I asked to make some edits:
+- Lower the audio, the sound is too intense
+- Decrease the ripple effect
+- Remove any "finger trails" only detect finger tips
+- Make the fish food more obvious
+![alt text](image-1.png)
+
+When removing the finger trails, it makes it hard to see where you are in the space. 
+It's less obvious the way that the user has the power of disturbing the fish and water.
+
+Also when raising your hand to tap with your fingers, the camera mistakes it for an open palm, which then drops the fish food.
+
+![alt text](image-2.png)
+
+I asked Claude to find a way to make it more obvious where you are in the space and it gave me this whole hand lol.
+![alt text](image-3.png)
