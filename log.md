@@ -123,3 +123,14 @@ I thought about typography and different ways I could build the story. I love ye
 ![alt text](pictures/image-16.png)
 
 ![alt text](pictures/image-17.png)
+
+# 10/4/26 - Guerilla User Testing @ Coffeeshop!
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+Notes:
+- Ripples are too apparent
+- User doesn't really know what to do besides make the ripples, grabbing (pinching) isn't an automatic thought
+- Water/glass effect can be overwhelming at times when there are a lot of ripples
