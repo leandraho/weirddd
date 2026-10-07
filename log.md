@@ -139,3 +139,5 @@ Notes:
 Final changes:
 - Reduced ripple size and duration
 - I got rid of the glass hand, and instead replaced it with little dots so that it is less distracting
+
+Final demo video here: https://vscode.dev/github/leandraho/weirddd/blob/main/koi%20pond%20-%20demo%20video.mp4 
