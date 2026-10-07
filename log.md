@@ -134,3 +134,8 @@ Notes:
 - Ripples are too apparent
 - User doesn't really know what to do besides make the ripples, grabbing (pinching) isn't an automatic thought
 - Water/glass effect can be overwhelming at times when there are a lot of ripples
+
+# 10/6/26
+Final changes:
+- Reduced ripple size and duration
+- I got rid of the glass hand, and instead replaced it with little dots so that it is less distracting
